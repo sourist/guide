@@ -133,4 +133,4 @@
 
 Одно понятие есть, осталось всего девять, алгоритм такой же. Удачи.
 
-
+![](https://github.com/sourist/guide/blob/main/assets/scweb.gif)
